@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using exercice_15.Class;
+
+GuerrierMage gm1 = new GuerrierMage("Hercule",200,10,;
