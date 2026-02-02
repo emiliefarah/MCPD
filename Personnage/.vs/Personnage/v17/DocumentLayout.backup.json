@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Personnage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4001CE40-D28D-4106-9FA9-2B0090F8AA1F}|Personnage\\Personnage.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\personnage\\personnage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4001CE40-D28D-4106-9FA9-2B0090F8AA1F}|Personnage\\Personnage.csproj|solutionrelative:personnage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4001CE40-D28D-4106-9FA9-2B0090F8AA1F}|Personnage\\Personnage.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\personnage\\personnage\\classe\\personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4001CE40-D28D-4106-9FA9-2B0090F8AA1F}|Personnage\\Personnage.csproj|solutionrelative:personnage\\classe\\personnage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 145,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Personnage.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Personnage\\Personnage\\classe\\Personnage.cs",
+              "RelativeDocumentMoniker": "Personnage\\classe\\Personnage.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Personnage\\Personnage\\classe\\Personnage.cs",
+              "RelativeToolTip": "Personnage\\classe\\Personnage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T13:10:19.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Personnage\\Personnage\\Program.cs",
+              "RelativeDocumentMoniker": "Personnage\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Personnage\\Personnage\\Program.cs",
+              "RelativeToolTip": "Personnage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T13:09:53.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exercice 13\bin\Debug\net9.0\exercice 13.exe
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exercice 13\bin\Debug\net9.0\exercice 13.deps.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exercice 13\bin\Debug\net9.0\exercice 13.runtimeconfig.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exercice 13\bin\Debug\net9.0\exercice 13.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exercice 13\bin\Debug\net9.0\exercice 13.pdb
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exercice 13\obj\Debug\net9.0\exercice 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exercice 13\obj\Debug\net9.0\exercice 13.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exercice 13\obj\Debug\net9.0\exercice 13.AssemblyInfo.cs
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exercice 13\obj\Debug\net9.0\exercice 13.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exercice 13\obj\Debug\net9.0\exercice 13.sourcelink.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exercice 13\obj\Debug\net9.0\exercice 13.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exercice 13\obj\Debug\net9.0\refint\exercice 13.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exercice 13\obj\Debug\net9.0\exercice 13.pdb
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exercice 13\obj\Debug\net9.0\exercice 13.genruntimeconfig.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exercice 13\obj\Debug\net9.0\ref\exercice 13.dll

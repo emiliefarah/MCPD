@@ -1,0 +1,15 @@
+C:\Users\userprf\Desktop\MCPDEMILIE\exo bonus\exo bonus 5\bin\Debug\net9.0\exo bonus 5.exe
+C:\Users\userprf\Desktop\MCPDEMILIE\exo bonus\exo bonus 5\bin\Debug\net9.0\exo bonus 5.deps.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exo bonus\exo bonus 5\bin\Debug\net9.0\exo bonus 5.runtimeconfig.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exo bonus\exo bonus 5\bin\Debug\net9.0\exo bonus 5.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exo bonus\exo bonus 5\bin\Debug\net9.0\exo bonus 5.pdb
+C:\Users\userprf\Desktop\MCPDEMILIE\exo bonus\exo bonus 5\obj\Debug\net9.0\exo bonus 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\MCPDEMILIE\exo bonus\exo bonus 5\obj\Debug\net9.0\exo bonus 5.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exo bonus\exo bonus 5\obj\Debug\net9.0\exo bonus 5.AssemblyInfo.cs
+C:\Users\userprf\Desktop\MCPDEMILIE\exo bonus\exo bonus 5\obj\Debug\net9.0\exo bonus 5.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exo bonus\exo bonus 5\obj\Debug\net9.0\exo bonus 5.sourcelink.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exo bonus\exo bonus 5\obj\Debug\net9.0\exo bonus 5.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exo bonus\exo bonus 5\obj\Debug\net9.0\refint\exo bonus 5.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exo bonus\exo bonus 5\obj\Debug\net9.0\exo bonus 5.pdb
+C:\Users\userprf\Desktop\MCPDEMILIE\exo bonus\exo bonus 5\obj\Debug\net9.0\exo bonus 5.genruntimeconfig.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exo bonus\exo bonus 5\obj\Debug\net9.0\ref\exo bonus 5.dll

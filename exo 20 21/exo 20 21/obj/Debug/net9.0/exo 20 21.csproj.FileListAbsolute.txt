@@ -1,0 +1,15 @@
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 20 21\exo 20 21\bin\Debug\net9.0\exo 20 21.exe
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 20 21\exo 20 21\bin\Debug\net9.0\exo 20 21.deps.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 20 21\exo 20 21\bin\Debug\net9.0\exo 20 21.runtimeconfig.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 20 21\exo 20 21\bin\Debug\net9.0\exo 20 21.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 20 21\exo 20 21\bin\Debug\net9.0\exo 20 21.pdb
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 20 21\exo 20 21\obj\Debug\net9.0\exo 20 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 20 21\exo 20 21\obj\Debug\net9.0\exo 20 21.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 20 21\exo 20 21\obj\Debug\net9.0\exo 20 21.AssemblyInfo.cs
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 20 21\exo 20 21\obj\Debug\net9.0\exo 20 21.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 20 21\exo 20 21\obj\Debug\net9.0\exo 20 21.sourcelink.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 20 21\exo 20 21\obj\Debug\net9.0\exo 20 21.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 20 21\exo 20 21\obj\Debug\net9.0\refint\exo 20 21.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 20 21\exo 20 21\obj\Debug\net9.0\exo 20 21.pdb
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 20 21\exo 20 21\obj\Debug\net9.0\exo 20 21.genruntimeconfig.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 20 21\exo 20 21\obj\Debug\net9.0\ref\exo 20 21.dll

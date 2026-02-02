@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Banque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43CA28E3-5897-4DB9-9BED-024C5D8270E7}|Banque\\Banque.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\banque\\banque\\banquier\\compteepargne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43CA28E3-5897-4DB9-9BED-024C5D8270E7}|Banque\\Banque.csproj|solutionrelative:banque\\banquier\\compteepargne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43CA28E3-5897-4DB9-9BED-024C5D8270E7}|Banque\\Banque.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\banque\\banque\\banquier\\comptecourant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43CA28E3-5897-4DB9-9BED-024C5D8270E7}|Banque\\Banque.csproj|solutionrelative:banque\\banquier\\comptecourant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43CA28E3-5897-4DB9-9BED-024C5D8270E7}|Banque\\Banque.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\banque\\banque\\banquier\\comptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43CA28E3-5897-4DB9-9BED-024C5D8270E7}|Banque\\Banque.csproj|solutionrelative:banque\\banquier\\comptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43CA28E3-5897-4DB9-9BED-024C5D8270E7}|Banque\\Banque.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\banque\\banque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43CA28E3-5897-4DB9-9BED-024C5D8270E7}|Banque\\Banque.csproj|solutionrelative:banque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 145,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompteEpargne.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Banque\\Banque\\Banquier\\CompteEpargne.cs",
+              "RelativeDocumentMoniker": "Banque\\Banquier\\CompteEpargne.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Banque\\Banque\\Banquier\\CompteEpargne.cs",
+              "RelativeToolTip": "Banque\\Banquier\\CompteEpargne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T11:24:19.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompteCourant.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Banque\\Banque\\Banquier\\CompteCourant.cs",
+              "RelativeDocumentMoniker": "Banque\\Banquier\\CompteCourant.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Banque\\Banque\\Banquier\\CompteCourant.cs",
+              "RelativeToolTip": "Banque\\Banquier\\CompteCourant.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T11:24:43.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompteBancaire.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Banque\\Banque\\Banquier\\CompteBancaire.cs",
+              "RelativeDocumentMoniker": "Banque\\Banquier\\CompteBancaire.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Banque\\Banque\\Banquier\\CompteBancaire.cs",
+              "RelativeToolTip": "Banque\\Banquier\\CompteBancaire.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T11:23:58.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Banque\\Banque\\Program.cs",
+              "RelativeDocumentMoniker": "Banque\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Banque\\Banque\\Program.cs",
+              "RelativeToolTip": "Banque\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T11:22:56.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exo1 chiens\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DACF5428-85B6-4AC6-B779-CF4890BC3728}|exo1 chiens\\exo1 chiens.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exo1 chiens\\exo1 chiens\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACF5428-85B6-4AC6-B779-CF4890BC3728}|exo1 chiens\\exo1 chiens.csproj|solutionrelative:exo1 chiens\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DACF5428-85B6-4AC6-B779-CF4890BC3728}|exo1 chiens\\exo1 chiens.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exo1 chiens\\exo1 chiens\\chenil\\chiens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DACF5428-85B6-4AC6-B779-CF4890BC3728}|exo1 chiens\\exo1 chiens.csproj|solutionrelative:exo1 chiens\\chenil\\chiens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 145,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chiens.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exo1 chiens\\exo1 chiens\\chenil\\Chiens.cs",
+              "RelativeDocumentMoniker": "exo1 chiens\\chenil\\Chiens.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exo1 chiens\\exo1 chiens\\chenil\\Chiens.cs*",
+              "RelativeToolTip": "exo1 chiens\\chenil\\Chiens.cs*",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:15:22.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exo1 chiens\\exo1 chiens\\Program.cs",
+              "RelativeDocumentMoniker": "exo1 chiens\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exo1 chiens\\exo1 chiens\\Program.cs",
+              "RelativeToolTip": "exo1 chiens\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T16:14:21.739Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

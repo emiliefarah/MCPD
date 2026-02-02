@@ -1,0 +1,15 @@
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 15 a 19\exercice 17\bin\Debug\net9.0\exercice 17.exe
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 15 a 19\exercice 17\bin\Debug\net9.0\exercice 17.deps.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 15 a 19\exercice 17\bin\Debug\net9.0\exercice 17.runtimeconfig.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 15 a 19\exercice 17\bin\Debug\net9.0\exercice 17.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 15 a 19\exercice 17\bin\Debug\net9.0\exercice 17.pdb
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 15 a 19\exercice 17\obj\Debug\net9.0\exercice 17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 15 a 19\exercice 17\obj\Debug\net9.0\exercice 17.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 15 a 19\exercice 17\obj\Debug\net9.0\exercice 17.AssemblyInfo.cs
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 15 a 19\exercice 17\obj\Debug\net9.0\exercice 17.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 15 a 19\exercice 17\obj\Debug\net9.0\exercice 17.sourcelink.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 15 a 19\exercice 17\obj\Debug\net9.0\exercice 17.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 15 a 19\exercice 17\obj\Debug\net9.0\refint\exercice 17.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 15 a 19\exercice 17\obj\Debug\net9.0\exercice 17.pdb
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 15 a 19\exercice 17\obj\Debug\net9.0\exercice 17.genruntimeconfig.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 15 a 19\exercice 17\obj\Debug\net9.0\ref\exercice 17.dll

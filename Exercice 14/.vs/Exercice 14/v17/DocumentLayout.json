@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice 14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{869FA0C6-F3E2-45C5-BC4B-3B9808083625}|Exercice 14\\Exercice 14.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice 14\\exercice 14\\class\\lettre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869FA0C6-F3E2-45C5-BC4B-3B9808083625}|Exercice 14\\Exercice 14.csproj|solutionrelative:exercice 14\\class\\lettre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869FA0C6-F3E2-45C5-BC4B-3B9808083625}|Exercice 14\\Exercice 14.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice 14\\exercice 14\\class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869FA0C6-F3E2-45C5-BC4B-3B9808083625}|Exercice 14\\Exercice 14.csproj|solutionrelative:exercice 14\\class\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869FA0C6-F3E2-45C5-BC4B-3B9808083625}|Exercice 14\\Exercice 14.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice 14\\exercice 14\\class\\adresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869FA0C6-F3E2-45C5-BC4B-3B9808083625}|Exercice 14\\Exercice 14.csproj|solutionrelative:exercice 14\\class\\adresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869FA0C6-F3E2-45C5-BC4B-3B9808083625}|Exercice 14\\Exercice 14.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice 14\\exercice 14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869FA0C6-F3E2-45C5-BC4B-3B9808083625}|Exercice 14\\Exercice 14.csproj|solutionrelative:exercice 14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869FA0C6-F3E2-45C5-BC4B-3B9808083625}|Exercice 14\\Exercice 14.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice 14\\exercice 14\\exercice 14.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{869FA0C6-F3E2-45C5-BC4B-3B9808083625}|Exercice 14\\Exercice 14.csproj|solutionrelative:exercice 14\\exercice 14.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 145,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lettre.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice 14\\Exercice 14\\Class\\Lettre.cs",
+              "RelativeDocumentMoniker": "Exercice 14\\Class\\Lettre.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice 14\\Exercice 14\\Class\\Lettre.cs",
+              "RelativeToolTip": "Exercice 14\\Class\\Lettre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T10:50:35.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice 14\\Exercice 14\\Class\\User.cs",
+              "RelativeDocumentMoniker": "Exercice 14\\Class\\User.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice 14\\Exercice 14\\Class\\User.cs",
+              "RelativeToolTip": "Exercice 14\\Class\\User.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T10:46:29.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Adresse.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice 14\\Exercice 14\\Class\\Adresse.cs",
+              "RelativeDocumentMoniker": "Exercice 14\\Class\\Adresse.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice 14\\Exercice 14\\Class\\Adresse.cs",
+              "RelativeToolTip": "Exercice 14\\Class\\Adresse.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T10:45:52.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exercice 14",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice 14\\Exercice 14\\Exercice 14.csproj",
+              "RelativeDocumentMoniker": "Exercice 14\\Exercice 14.csproj",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice 14\\Exercice 14\\Exercice 14.csproj",
+              "RelativeToolTip": "Exercice 14\\Exercice 14.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-02T10:45:04.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice 14\\Exercice 14\\Program.cs",
+              "RelativeDocumentMoniker": "Exercice 14\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice 14\\Exercice 14\\Program.cs",
+              "RelativeToolTip": "Exercice 14\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T10:42:49.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

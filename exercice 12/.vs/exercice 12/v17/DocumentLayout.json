@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice 12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54D77C97-330A-4D53-93F0-3430AF33A139}|exercice 12\\exercice 12.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice 12\\exercice 12\\interface\\ivolant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D77C97-330A-4D53-93F0-3430AF33A139}|exercice 12\\exercice 12.csproj|solutionrelative:exercice 12\\interface\\ivolant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice13\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D77C97-330A-4D53-93F0-3430AF33A139}|exercice 12\\exercice 12.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice 12\\exercice 12\\class\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D77C97-330A-4D53-93F0-3430AF33A139}|exercice 12\\exercice 12.csproj|solutionrelative:exercice 12\\class\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D77C97-330A-4D53-93F0-3430AF33A139}|exercice 12\\exercice 12.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice 12\\exercice 12\\class\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D77C97-330A-4D53-93F0-3430AF33A139}|exercice 12\\exercice 12.csproj|solutionrelative:exercice 12\\class\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D77C97-330A-4D53-93F0-3430AF33A139}|exercice 12\\exercice 12.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice 12\\exercice 12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D77C97-330A-4D53-93F0-3430AF33A139}|exercice 12\\exercice 12.csproj|solutionrelative:exercice 12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D77C97-330A-4D53-93F0-3430AF33A139}|exercice 12\\exercice 12.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice 12\\exercice 12\\class\\voiturehybride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D77C97-330A-4D53-93F0-3430AF33A139}|exercice 12\\exercice 12.csproj|solutionrelative:exercice 12\\class\\voiturehybride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 145,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice13\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice13\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice13\\Program.cs",
+              "RelativeToolTip": "..\\..\\MCDP\\06_C#_POO\\Exercices\\Corrections\\CorrectionExercices\\Exercice13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T10:42:12.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicule.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice 12\\exercice 12\\Class\\Vehicule.cs",
+              "RelativeDocumentMoniker": "exercice 12\\Class\\Vehicule.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice 12\\exercice 12\\Class\\Vehicule.cs",
+              "RelativeToolTip": "exercice 12\\Class\\Vehicule.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T08:53:18.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VoitureHybride.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice 12\\exercice 12\\Class\\VoitureHybride.cs",
+              "RelativeDocumentMoniker": "exercice 12\\Class\\VoitureHybride.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice 12\\exercice 12\\Class\\VoitureHybride.cs",
+              "RelativeToolTip": "exercice 12\\Class\\VoitureHybride.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T08:51:50.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IVolant.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice 12\\exercice 12\\Interface\\IVolant.cs",
+              "RelativeDocumentMoniker": "exercice 12\\Interface\\IVolant.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice 12\\exercice 12\\Interface\\IVolant.cs",
+              "RelativeToolTip": "exercice 12\\Interface\\IVolant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T08:48:13.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Voiture.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice 12\\exercice 12\\Class\\Voiture.cs",
+              "RelativeDocumentMoniker": "exercice 12\\Class\\Voiture.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice 12\\exercice 12\\Class\\Voiture.cs",
+              "RelativeToolTip": "exercice 12\\Class\\Voiture.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T08:35:53.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice 12\\exercice 12\\Program.cs",
+              "RelativeDocumentMoniker": "exercice 12\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice 12\\exercice 12\\Program.cs",
+              "RelativeToolTip": "exercice 12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T08:35:20.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

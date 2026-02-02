@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exo 20 21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71227AB4-346B-467D-83FF-292C78A221E1}|exo 21\\exo 21.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exo 20 21\\exo 21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71227AB4-346B-467D-83FF-292C78A221E1}|exo 21\\exo 21.csproj|solutionrelative:exo 21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{461AC80E-F5E8-467F-8AD5-C1E1E8E2F8D4}|exo 20 21\\exo 20 21.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exo 20 21\\exo 20 21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{461AC80E-F5E8-467F-8AD5-C1E1E8E2F8D4}|exo 20 21\\exo 20 21.csproj|solutionrelative:exo 20 21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoFonction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 255,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exo 20 21\\exo 21\\Program.cs",
+              "RelativeDocumentMoniker": "exo 21\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exo 20 21\\exo 21\\Program.cs",
+              "RelativeToolTip": "exo 21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T16:26:15.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exo 20 21\\exo 20 21\\Program.cs",
+              "RelativeDocumentMoniker": "exo 20 21\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exo 20 21\\exo 20 21\\Program.cs",
+              "RelativeToolTip": "exo 20 21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T12:50:57.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "FloatingWindowState": {
+        "Id": "d92594fe-4b9b-4208-abc9-a2e7bc8168cc",
+        "Display": 1,
+        "X": 293,
+        "Y": 29,
+        "Width": 934,
+        "Height": 893,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DemoFonction.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoFonction.cs",
+              "RelativeDocumentMoniker": "..\\..\\MCDP\\05_C#_Base\\Demos\\DemoFonction.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCDP\\05_C#_Base\\Demos\\DemoFonction.cs",
+              "RelativeToolTip": "..\\..\\MCDP\\05_C#_Base\\Demos\\DemoFonction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T15:49:23.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

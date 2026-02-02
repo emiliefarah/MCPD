@@ -1,0 +1,15 @@
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exo 10\bin\Debug\net9.0\exo 10.exe
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exo 10\bin\Debug\net9.0\exo 10.deps.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exo 10\bin\Debug\net9.0\exo 10.runtimeconfig.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exo 10\bin\Debug\net9.0\exo 10.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exo 10\bin\Debug\net9.0\exo 10.pdb
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exo 10\obj\Debug\net9.0\exo 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exo 10\obj\Debug\net9.0\exo 10.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exo 10\obj\Debug\net9.0\exo 10.AssemblyInfo.cs
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exo 10\obj\Debug\net9.0\exo 10.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exo 10\obj\Debug\net9.0\exo 10.sourcelink.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exo 10\obj\Debug\net9.0\exo 10.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exo 10\obj\Debug\net9.0\refint\exo 10.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exo 10\obj\Debug\net9.0\exo 10.pdb
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exo 10\obj\Debug\net9.0\exo 10.genruntimeconfig.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exo 10 a 14\exo 10\obj\Debug\net9.0\ref\exo 10.dll
