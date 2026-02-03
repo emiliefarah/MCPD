@@ -8,6 +8,6 @@ namespace exercice_15.Interface
 {
     internal interface IMagie
     {
-        public void LancerSort(Personnage p);
+        public void LancerSort(Personnage cible);
     }
 }

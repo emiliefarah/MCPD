@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice 17 temperature\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADF2E7F2-9B7B-4902-B865-3F22B7F3DB1A}|exercice 17 temperature\\exercice 17 temperature.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice 17 temperature\\exercice 17 temperature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADF2E7F2-9B7B-4902-B865-3F22B7F3DB1A}|exercice 17 temperature\\exercice 17 temperature.csproj|solutionrelative:exercice 17 temperature\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 145,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice 17 temperature\\exercice 17 temperature\\Program.cs",
+              "RelativeDocumentMoniker": "exercice 17 temperature\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice 17 temperature\\exercice 17 temperature\\Program.cs",
+              "RelativeToolTip": "exercice 17 temperature\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T10:51:33.015Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

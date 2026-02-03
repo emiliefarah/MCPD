@@ -1,0 +1,15 @@
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 17 temperature\exercice 17 temperature\bin\Debug\net9.0\exercice 17 temperature.exe
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 17 temperature\exercice 17 temperature\bin\Debug\net9.0\exercice 17 temperature.deps.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 17 temperature\exercice 17 temperature\bin\Debug\net9.0\exercice 17 temperature.runtimeconfig.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 17 temperature\exercice 17 temperature\bin\Debug\net9.0\exercice 17 temperature.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 17 temperature\exercice 17 temperature\bin\Debug\net9.0\exercice 17 temperature.pdb
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 17 temperature\exercice 17 temperature\obj\Debug\net9.0\exercice 17 temperature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 17 temperature\exercice 17 temperature\obj\Debug\net9.0\exercice 17 temperature.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 17 temperature\exercice 17 temperature\obj\Debug\net9.0\exercice 17 temperature.AssemblyInfo.cs
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 17 temperature\exercice 17 temperature\obj\Debug\net9.0\exercice 17 temperature.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 17 temperature\exercice 17 temperature\obj\Debug\net9.0\exercice 17 temperature.sourcelink.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 17 temperature\exercice 17 temperature\obj\Debug\net9.0\exercice 17 temperature.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 17 temperature\exercice 17 temperature\obj\Debug\net9.0\refint\exercice 17 temperature.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 17 temperature\exercice 17 temperature\obj\Debug\net9.0\exercice 17 temperature.pdb
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 17 temperature\exercice 17 temperature\obj\Debug\net9.0\exercice 17 temperature.genruntimeconfig.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 17 temperature\exercice 17 temperature\obj\Debug\net9.0\ref\exercice 17 temperature.dll

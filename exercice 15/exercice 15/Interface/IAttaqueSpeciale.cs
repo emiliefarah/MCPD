@@ -9,6 +9,6 @@ namespace exercice_15.Interface
 {
     internal interface IAttaqueSpeciale
     {
-        public void Attaquespecial(Personnage p);
+        public void Attaquespecial(Personnage cible);
     }
 }

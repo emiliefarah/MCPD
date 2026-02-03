@@ -1,0 +1,15 @@
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 16 liste mots\exercice 16 liste mots\bin\Debug\net9.0\exercice 16 liste mots.exe
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 16 liste mots\exercice 16 liste mots\bin\Debug\net9.0\exercice 16 liste mots.deps.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 16 liste mots\exercice 16 liste mots\bin\Debug\net9.0\exercice 16 liste mots.runtimeconfig.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 16 liste mots\exercice 16 liste mots\bin\Debug\net9.0\exercice 16 liste mots.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 16 liste mots\exercice 16 liste mots\bin\Debug\net9.0\exercice 16 liste mots.pdb
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 16 liste mots\exercice 16 liste mots\obj\Debug\net9.0\exercice 16 liste mots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 16 liste mots\exercice 16 liste mots\obj\Debug\net9.0\exercice 16 liste mots.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 16 liste mots\exercice 16 liste mots\obj\Debug\net9.0\exercice 16 liste mots.AssemblyInfo.cs
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 16 liste mots\exercice 16 liste mots\obj\Debug\net9.0\exercice 16 liste mots.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 16 liste mots\exercice 16 liste mots\obj\Debug\net9.0\exercice 16 liste mots.sourcelink.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 16 liste mots\exercice 16 liste mots\obj\Debug\net9.0\exercice 16 liste mots.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 16 liste mots\exercice 16 liste mots\obj\Debug\net9.0\refint\exercice 16 liste mots.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 16 liste mots\exercice 16 liste mots\obj\Debug\net9.0\exercice 16 liste mots.pdb
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 16 liste mots\exercice 16 liste mots\obj\Debug\net9.0\exercice 16 liste mots.genruntimeconfig.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 16 liste mots\exercice 16 liste mots\obj\Debug\net9.0\ref\exercice 16 liste mots.dll

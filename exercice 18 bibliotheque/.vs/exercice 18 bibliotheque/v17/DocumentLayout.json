@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice 18 bibliotheque\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{608FE267-F110-4AA2-9CAF-E6511E779022}|exercice 18 bibliotheque\\exercice 18 bibliotheque.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice 18 bibliotheque\\exercice 18 bibliotheque\\classe\\bibliotheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608FE267-F110-4AA2-9CAF-E6511E779022}|exercice 18 bibliotheque\\exercice 18 bibliotheque.csproj|solutionrelative:exercice 18 bibliotheque\\classe\\bibliotheque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608FE267-F110-4AA2-9CAF-E6511E779022}|exercice 18 bibliotheque\\exercice 18 bibliotheque.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice 18 bibliotheque\\exercice 18 bibliotheque\\classe\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608FE267-F110-4AA2-9CAF-E6511E779022}|exercice 18 bibliotheque\\exercice 18 bibliotheque.csproj|solutionrelative:exercice 18 bibliotheque\\classe\\livre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608FE267-F110-4AA2-9CAF-E6511E779022}|exercice 18 bibliotheque\\exercice 18 bibliotheque.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice 18 bibliotheque\\exercice 18 bibliotheque\\exercice 18 bibliotheque.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{608FE267-F110-4AA2-9CAF-E6511E779022}|exercice 18 bibliotheque\\exercice 18 bibliotheque.csproj|solutionrelative:exercice 18 bibliotheque\\exercice 18 bibliotheque.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608FE267-F110-4AA2-9CAF-E6511E779022}|exercice 18 bibliotheque\\exercice 18 bibliotheque.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice 18 bibliotheque\\exercice 18 bibliotheque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608FE267-F110-4AA2-9CAF-E6511E779022}|exercice 18 bibliotheque\\exercice 18 bibliotheque.csproj|solutionrelative:exercice 18 bibliotheque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 145,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Livre.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice 18 bibliotheque\\exercice 18 bibliotheque\\Classe\\Livre.cs",
+              "RelativeDocumentMoniker": "exercice 18 bibliotheque\\Classe\\Livre.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice 18 bibliotheque\\exercice 18 bibliotheque\\Classe\\Livre.cs",
+              "RelativeToolTip": "exercice 18 bibliotheque\\Classe\\Livre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T11:20:36.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bibliotheque.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice 18 bibliotheque\\exercice 18 bibliotheque\\Classe\\Bibliotheque.cs",
+              "RelativeDocumentMoniker": "exercice 18 bibliotheque\\Classe\\Bibliotheque.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice 18 bibliotheque\\exercice 18 bibliotheque\\Classe\\Bibliotheque.cs",
+              "RelativeToolTip": "exercice 18 bibliotheque\\Classe\\Bibliotheque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T11:20:11.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "exercice 18 bibliotheque",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice 18 bibliotheque\\exercice 18 bibliotheque\\exercice 18 bibliotheque.csproj",
+              "RelativeDocumentMoniker": "exercice 18 bibliotheque\\exercice 18 bibliotheque.csproj",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice 18 bibliotheque\\exercice 18 bibliotheque\\exercice 18 bibliotheque.csproj",
+              "RelativeToolTip": "exercice 18 bibliotheque\\exercice 18 bibliotheque.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-03T11:19:40.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice 18 bibliotheque\\exercice 18 bibliotheque\\Program.cs",
+              "RelativeDocumentMoniker": "exercice 18 bibliotheque\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice 18 bibliotheque\\exercice 18 bibliotheque\\Program.cs",
+              "RelativeToolTip": "exercice 18 bibliotheque\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T11:19:11.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
