@@ -1,0 +1,15 @@
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 18 bibliotheque\exercice 18 bibliotheque\bin\Debug\net9.0\exercice 18 bibliotheque.exe
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 18 bibliotheque\exercice 18 bibliotheque\bin\Debug\net9.0\exercice 18 bibliotheque.deps.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 18 bibliotheque\exercice 18 bibliotheque\bin\Debug\net9.0\exercice 18 bibliotheque.runtimeconfig.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 18 bibliotheque\exercice 18 bibliotheque\bin\Debug\net9.0\exercice 18 bibliotheque.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 18 bibliotheque\exercice 18 bibliotheque\bin\Debug\net9.0\exercice 18 bibliotheque.pdb
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 18 bibliotheque\exercice 18 bibliotheque\obj\Debug\net9.0\exercice 18 bibliotheque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 18 bibliotheque\exercice 18 bibliotheque\obj\Debug\net9.0\exercice 18 bibliotheque.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 18 bibliotheque\exercice 18 bibliotheque\obj\Debug\net9.0\exercice 18 bibliotheque.AssemblyInfo.cs
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 18 bibliotheque\exercice 18 bibliotheque\obj\Debug\net9.0\exercice 18 bibliotheque.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 18 bibliotheque\exercice 18 bibliotheque\obj\Debug\net9.0\exercice 18 bibliotheque.sourcelink.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 18 bibliotheque\exercice 18 bibliotheque\obj\Debug\net9.0\exercice 18 bibliotheque.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 18 bibliotheque\exercice 18 bibliotheque\obj\Debug\net9.0\refint\exercice 18 bibliotheque.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 18 bibliotheque\exercice 18 bibliotheque\obj\Debug\net9.0\exercice 18 bibliotheque.pdb
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 18 bibliotheque\exercice 18 bibliotheque\obj\Debug\net9.0\exercice 18 bibliotheque.genruntimeconfig.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice 18 bibliotheque\exercice 18 bibliotheque\obj\Debug\net9.0\ref\exercice 18 bibliotheque.dll

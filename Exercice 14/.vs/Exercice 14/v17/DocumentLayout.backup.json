@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Exercice 14\\Class\\Lettre.cs",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice 14\\Exercice 14\\Class\\Lettre.cs",
               "RelativeToolTip": "Exercice 14\\Class\\Lettre.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-02T10:50:35.441Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Exercice 14\\Class\\User.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T10:46:29.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T10:46:29.827Z"
             },
             {
               "$type": "Document",
@@ -68,21 +67,19 @@
               "RelativeToolTip": "Exercice 14\\Class\\Adresse.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T10:45:52.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T10:45:52.545Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Exercice 14",
+              "Title": "Exercice 14.csproj",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice 14\\Exercice 14\\Exercice 14.csproj",
               "RelativeDocumentMoniker": "Exercice 14\\Exercice 14.csproj",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice 14\\Exercice 14\\Exercice 14.csproj",
               "RelativeToolTip": "Exercice 14\\Exercice 14.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-02T10:45:04.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T10:45:04.394Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "Exercice 14\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T10:42:49.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T10:42:49.642Z"
             }
           ]
         }
