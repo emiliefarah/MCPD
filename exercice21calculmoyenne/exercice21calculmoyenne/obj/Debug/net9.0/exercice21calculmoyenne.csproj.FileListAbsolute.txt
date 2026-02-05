@@ -1,0 +1,15 @@
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice21calculmoyenne\exercice21calculmoyenne\bin\Debug\net9.0\exercice21calculmoyenne.exe
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice21calculmoyenne\exercice21calculmoyenne\bin\Debug\net9.0\exercice21calculmoyenne.deps.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice21calculmoyenne\exercice21calculmoyenne\bin\Debug\net9.0\exercice21calculmoyenne.runtimeconfig.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice21calculmoyenne\exercice21calculmoyenne\bin\Debug\net9.0\exercice21calculmoyenne.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice21calculmoyenne\exercice21calculmoyenne\bin\Debug\net9.0\exercice21calculmoyenne.pdb
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice21calculmoyenne\exercice21calculmoyenne\obj\Debug\net9.0\exercice21calculmoyenne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice21calculmoyenne\exercice21calculmoyenne\obj\Debug\net9.0\exercice21calculmoyenne.AssemblyInfoInputs.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice21calculmoyenne\exercice21calculmoyenne\obj\Debug\net9.0\exercice21calculmoyenne.AssemblyInfo.cs
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice21calculmoyenne\exercice21calculmoyenne\obj\Debug\net9.0\exercice21calculmoyenne.csproj.CoreCompileInputs.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice21calculmoyenne\exercice21calculmoyenne\obj\Debug\net9.0\exercice21calculmoyenne.sourcelink.json
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice21calculmoyenne\exercice21calculmoyenne\obj\Debug\net9.0\exercice21calculmoyenne.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice21calculmoyenne\exercice21calculmoyenne\obj\Debug\net9.0\refint\exercice21calculmoyenne.dll
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice21calculmoyenne\exercice21calculmoyenne\obj\Debug\net9.0\exercice21calculmoyenne.pdb
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice21calculmoyenne\exercice21calculmoyenne\obj\Debug\net9.0\exercice21calculmoyenne.genruntimeconfig.cache
+C:\Users\userprf\Desktop\MCPDEMILIE\exercice21calculmoyenne\exercice21calculmoyenne\obj\Debug\net9.0\ref\exercice21calculmoyenne.dll
