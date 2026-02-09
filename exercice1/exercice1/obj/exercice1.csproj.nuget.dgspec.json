@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice1\\exercice1\\exercice1.csproj": {}
+    "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice1\\Exercice1\\Exercice1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice1\\exercice1\\exercice1.csproj": {
+    "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice1\\Exercice1\\Exercice1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice1\\exercice1\\exercice1.csproj",
-        "projectName": "exercice1",
-        "projectPath": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice1\\exercice1\\exercice1.csproj",
+        "projectUniqueName": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice1\\Exercice1\\Exercice1.csproj",
+        "projectName": "Exercice1",
+        "projectPath": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice1\\Exercice1\\Exercice1.csproj",
         "packagesPath": "C:\\Users\\userprf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice1\\exercice1\\obj\\",
+        "outputPath": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice1\\Exercice1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\userprf\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,12 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.6.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

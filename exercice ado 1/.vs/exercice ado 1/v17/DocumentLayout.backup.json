@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice ado 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{540A5B4D-5BC2-4BCE-A585-968A451042A3}|exercice ado 1\\exercice ado 1.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice ado 1\\exercice ado 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540A5B4D-5BC2-4BCE-A585-968A451042A3}|exercice ado 1\\exercice ado 1.csproj|solutionrelative:exercice ado 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540A5B4D-5BC2-4BCE-A585-968A451042A3}|exercice ado 1\\exercice ado 1.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice ado 1\\exercice ado 1\\classes\\repository\\etudiantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540A5B4D-5BC2-4BCE-A585-968A451042A3}|exercice ado 1\\exercice ado 1.csproj|solutionrelative:exercice ado 1\\classes\\repository\\etudiantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540A5B4D-5BC2-4BCE-A585-968A451042A3}|exercice ado 1\\exercice ado 1.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice ado 1\\exercice ado 1\\classes\\model\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540A5B4D-5BC2-4BCE-A585-968A451042A3}|exercice ado 1\\exercice ado 1.csproj|solutionrelative:exercice ado 1\\classes\\model\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540A5B4D-5BC2-4BCE-A585-968A451042A3}|exercice ado 1\\exercice ado 1.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice ado 1\\exercice ado 1\\exercice ado 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{540A5B4D-5BC2-4BCE-A585-968A451042A3}|exercice ado 1\\exercice ado 1.csproj|solutionrelative:exercice ado 1\\exercice ado 1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "exercice ado 1",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice ado 1\\exercice ado 1\\exercice ado 1.csproj",
+              "RelativeDocumentMoniker": "exercice ado 1\\exercice ado 1.csproj",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice ado 1\\exercice ado 1\\exercice ado 1.csproj",
+              "RelativeToolTip": "exercice ado 1\\exercice ado 1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-09T12:38:15.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EtudiantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice ado 1\\exercice ado 1\\Classes\\Repository\\EtudiantRepository.cs",
+              "RelativeDocumentMoniker": "exercice ado 1\\Classes\\Repository\\EtudiantRepository.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice ado 1\\exercice ado 1\\Classes\\Repository\\EtudiantRepository.cs",
+              "RelativeToolTip": "exercice ado 1\\Classes\\Repository\\EtudiantRepository.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwK8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T08:20:59.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Etudiant.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice ado 1\\exercice ado 1\\Classes\\Model\\Etudiant.cs",
+              "RelativeDocumentMoniker": "exercice ado 1\\Classes\\Model\\Etudiant.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice ado 1\\exercice ado 1\\Classes\\Model\\Etudiant.cs",
+              "RelativeToolTip": "exercice ado 1\\Classes\\Model\\Etudiant.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T08:20:07.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice ado 1\\exercice ado 1\\Program.cs",
+              "RelativeDocumentMoniker": "exercice ado 1\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice ado 1\\exercice ado 1\\Program.cs*",
+              "RelativeToolTip": "exercice ado 1\\Program.cs*",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAYwGMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T08:16:09.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
