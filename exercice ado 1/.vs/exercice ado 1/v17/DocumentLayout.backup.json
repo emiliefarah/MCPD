@@ -31,15 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "exercice ado 1",
+              "Title": "exercice ado 1.csproj",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice ado 1\\exercice ado 1\\exercice ado 1.csproj",
               "RelativeDocumentMoniker": "exercice ado 1\\exercice ado 1.csproj",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice ado 1\\exercice ado 1\\exercice ado 1.csproj",
               "RelativeToolTip": "exercice ado 1\\exercice ado 1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-09T12:38:15.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T12:38:15.786Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "exercice ado 1\\Classes\\Repository\\EtudiantRepository.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAYwK8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T08:20:59.247Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T08:20:59.247Z"
             },
             {
               "$type": "Document",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "exercice ado 1\\Classes\\Model\\Etudiant.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T08:20:07.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T08:20:07.705Z"
             },
             {
               "$type": "Document",
@@ -73,9 +70,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice ado 1\\exercice ado 1\\Program.cs",
               "RelativeDocumentMoniker": "exercice ado 1\\Program.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice ado 1\\exercice ado 1\\Program.cs*",
-              "RelativeToolTip": "exercice ado 1\\Program.cs*",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAYwGMAAAAfAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exercice ado 1\\exercice ado 1\\Program.cs",
+              "RelativeToolTip": "exercice ado 1\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwGMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T08:16:09.837Z",
               "EditorCaption": ""
