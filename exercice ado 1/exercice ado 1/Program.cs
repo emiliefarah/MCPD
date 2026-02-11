@@ -97,7 +97,7 @@ do
 
         1. Voir tous les étudiants
         2. Ajouter un étudiant
-        3. Modifier un étudiant
+        3. Modifier un étudiante
         4. Supprimer un étudiant
         0. Quitter
         """);

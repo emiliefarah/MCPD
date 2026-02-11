@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exerciceEFAdresse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05361907-2AFD-448A-B335-DB9F591D4C60}|exerciceEFAdresse\\exerciceEFAdresse.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exerciceefadresse\\exerciceefadresse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05361907-2AFD-448A-B335-DB9F591D4C60}|exerciceEFAdresse\\exerciceEFAdresse.csproj|solutionrelative:exerciceefadresse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05361907-2AFD-448A-B335-DB9F591D4C60}|exerciceEFAdresse\\exerciceEFAdresse.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exerciceefadresse\\exerciceefadresse\\model\\adresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05361907-2AFD-448A-B335-DB9F591D4C60}|exerciceEFAdresse\\exerciceEFAdresse.csproj|solutionrelative:exerciceefadresse\\model\\adresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05361907-2AFD-448A-B335-DB9F591D4C60}|exerciceEFAdresse\\exerciceEFAdresse.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exerciceefadresse\\exerciceefadresse\\dbmanager\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05361907-2AFD-448A-B335-DB9F591D4C60}|exerciceEFAdresse\\exerciceEFAdresse.csproj|solutionrelative:exerciceefadresse\\dbmanager\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05361907-2AFD-448A-B335-DB9F591D4C60}|exerciceEFAdresse\\exerciceEFAdresse.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exerciceefadresse\\exerciceefadresse\\exerciceefadresse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05361907-2AFD-448A-B335-DB9F591D4C60}|exerciceEFAdresse\\exerciceEFAdresse.csproj|solutionrelative:exerciceefadresse\\exerciceefadresse.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05361907-2AFD-448A-B335-DB9F591D4C60}|exerciceEFAdresse\\exerciceEFAdresse.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exerciceefadresse\\exerciceefadresse\\migrations\\20260210154218_initadresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05361907-2AFD-448A-B335-DB9F591D4C60}|exerciceEFAdresse\\exerciceEFAdresse.csproj|solutionrelative:exerciceefadresse\\migrations\\20260210154218_initadresse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260210154218_InitAdresse.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exerciceEFAdresse\\exerciceEFAdresse\\Migrations\\20260210154218_InitAdresse.cs",
+              "RelativeDocumentMoniker": "exerciceEFAdresse\\Migrations\\20260210154218_InitAdresse.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exerciceEFAdresse\\exerciceEFAdresse\\Migrations\\20260210154218_InitAdresse.cs",
+              "RelativeToolTip": "exerciceEFAdresse\\Migrations\\20260210154218_InitAdresse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:42:18.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Adresse.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exerciceEFAdresse\\exerciceEFAdresse\\Model\\Adresse.cs",
+              "RelativeDocumentMoniker": "exerciceEFAdresse\\Model\\Adresse.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exerciceEFAdresse\\exerciceEFAdresse\\Model\\Adresse.cs",
+              "RelativeToolTip": "exerciceEFAdresse\\Model\\Adresse.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:16:05.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exerciceEFAdresse\\exerciceEFAdresse\\DbManager\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "exerciceEFAdresse\\DbManager\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exerciceEFAdresse\\exerciceEFAdresse\\DbManager\\AppDbContext.cs",
+              "RelativeToolTip": "exerciceEFAdresse\\DbManager\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:15:18.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "exerciceEFAdresse.csproj",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exerciceEFAdresse\\exerciceEFAdresse\\exerciceEFAdresse.csproj",
+              "RelativeDocumentMoniker": "exerciceEFAdresse\\exerciceEFAdresse.csproj",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exerciceEFAdresse\\exerciceEFAdresse\\exerciceEFAdresse.csproj",
+              "RelativeToolTip": "exerciceEFAdresse\\exerciceEFAdresse.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-10T15:14:13.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exerciceEFAdresse\\exerciceEFAdresse\\Program.cs",
+              "RelativeDocumentMoniker": "exerciceEFAdresse\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\exerciceEFAdresse\\exerciceEFAdresse\\Program.cs",
+              "RelativeToolTip": "exerciceEFAdresse\\Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAkwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T15:11:27.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
