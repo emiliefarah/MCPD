@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\ExoHotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6682087-0C6B-4857-9A68-710F95DD2A56}|ExoHotel\\ExoHotel.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exohotel\\exohotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6682087-0C6B-4857-9A68-710F95DD2A56}|ExoHotel\\ExoHotel.csproj|solutionrelative:exohotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6682087-0C6B-4857-9A68-710F95DD2A56}|ExoHotel\\ExoHotel.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exohotel\\exohotel\\model\\chambre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6682087-0C6B-4857-9A68-710F95DD2A56}|ExoHotel\\ExoHotel.csproj|solutionrelative:exohotel\\model\\chambre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6682087-0C6B-4857-9A68-710F95DD2A56}|ExoHotel\\ExoHotel.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exohotel\\exohotel\\model\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6682087-0C6B-4857-9A68-710F95DD2A56}|ExoHotel\\ExoHotel.csproj|solutionrelative:exohotel\\model\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6682087-0C6B-4857-9A68-710F95DD2A56}|ExoHotel\\ExoHotel.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exohotel\\exohotel\\model\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6682087-0C6B-4857-9A68-710F95DD2A56}|ExoHotel\\ExoHotel.csproj|solutionrelative:exohotel\\model\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\ExoHotel\\ExoHotel\\Migrations\\20260211092805_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExoHotel\\Migrations\\20260211092805_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6682087-0C6B-4857-9A68-710F95DD2A56}|ExoHotel\\ExoHotel.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exohotel\\exohotel\\dbmanager\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6682087-0C6B-4857-9A68-710F95DD2A56}|ExoHotel\\ExoHotel.csproj|solutionrelative:exohotel\\dbmanager\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6682087-0C6B-4857-9A68-710F95DD2A56}|ExoHotel\\ExoHotel.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exohotel\\exohotel\\exohotel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6682087-0C6B-4857-9A68-710F95DD2A56}|ExoHotel\\ExoHotel.csproj|solutionrelative:exohotel\\exohotel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExoHotel",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\ExoHotel\\ExoHotel\\ExoHotel.csproj",
+              "RelativeDocumentMoniker": "ExoHotel\\ExoHotel.csproj",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\ExoHotel\\ExoHotel\\ExoHotel.csproj",
+              "RelativeToolTip": "ExoHotel\\ExoHotel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-11T08:45:51.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\ExoHotel\\ExoHotel\\Model\\Reservation.cs",
+              "RelativeDocumentMoniker": "ExoHotel\\Model\\Reservation.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\ExoHotel\\ExoHotel\\Model\\Reservation.cs",
+              "RelativeToolTip": "ExoHotel\\Model\\Reservation.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T08:23:16.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\ExoHotel\\ExoHotel\\Program.cs",
+              "RelativeDocumentMoniker": "ExoHotel\\Program.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\ExoHotel\\ExoHotel\\Program.cs",
+              "RelativeToolTip": "ExoHotel\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T08:21:29.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\ExoHotel\\ExoHotel\\DbManager\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ExoHotel\\DbManager\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\ExoHotel\\ExoHotel\\DbManager\\AppDbContext.cs",
+              "RelativeToolTip": "ExoHotel\\DbManager\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T08:46:30.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chambre.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\ExoHotel\\ExoHotel\\Model\\Chambre.cs",
+              "RelativeDocumentMoniker": "ExoHotel\\Model\\Chambre.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\ExoHotel\\ExoHotel\\Model\\Chambre.cs",
+              "RelativeToolTip": "ExoHotel\\Model\\Chambre.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T08:22:58.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\ExoHotel\\ExoHotel\\Model\\Client.cs",
+              "RelativeDocumentMoniker": "ExoHotel\\Model\\Client.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\ExoHotel\\ExoHotel\\Model\\Client.cs",
+              "RelativeToolTip": "ExoHotel\\Model\\Client.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T08:22:43.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20260211092805_Init.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\ExoHotel\\ExoHotel\\Migrations\\20260211092805_Init.cs",
+              "RelativeDocumentMoniker": "ExoHotel\\Migrations\\20260211092805_Init.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\ExoHotel\\ExoHotel\\Migrations\\20260211092805_Init.cs",
+              "RelativeToolTip": "ExoHotel\\Migrations\\20260211092805_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T09:28:05.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
