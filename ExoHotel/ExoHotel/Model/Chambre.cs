@@ -11,6 +11,7 @@ namespace ExoHotel.Model
     internal class Chambre
     {
         [Key]
+        [Required]
         public int Numero {  get; set; }
         public string Statut { get; set; }
         public int NombresDeLits { get; set; }

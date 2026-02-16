@@ -36,8 +36,8 @@ db.SaveChanges();
 
 void AfficherLaListeDesClients(AppDbContext db)
 {
-    List<Client> toutlesclients = db.Client.ToList();
-    toutlesclients.Sort();
+    List<Client> toutlesclients = db.Client.OrderBy(c=>c.Nom).ToList();
+   
     foreach (Client c in toutlesclients)
     {
         Console.WriteLine(toutlesclients);
@@ -79,12 +79,8 @@ void AfficherReservationClient(AppDbContext db)
 
 }
 
-    void AjouterUneReservation(AppDbContext db)// pour ajouter une reservation il nous faut le numero de chambre ,recuperer le client,et son statut?
-{
-    Console.WriteLine("Voici les chambres disponibles");
+    //void AjouterUneReservation(AppDbContext db)// pour ajouter une reservation il nous faut le numero de chambre ,recuperer le client,et son statut?
 
-
-}
 
     //Console.WriteLine("Veuillez entrer le numero de chambre ");
     // int numerodechambre = int.Parse(Console.ReadLine());

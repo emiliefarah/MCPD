@@ -38,21 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\ExoHotel\\ExoHotel\\DbManager\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ExoHotel\\DbManager\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\ExoHotel\\ExoHotel\\DbManager\\AppDbContext.cs",
-              "RelativeToolTip": "ExoHotel\\DbManager\\AppDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T08:46:30.504Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
@@ -85,11 +72,24 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\ExoHotel\\ExoHotel\\Program.cs",
               "RelativeDocumentMoniker": "ExoHotel\\Program.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\ExoHotel\\ExoHotel\\Program.cs*",
-              "RelativeToolTip": "ExoHotel\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\ExoHotel\\ExoHotel\\Program.cs",
+              "RelativeToolTip": "ExoHotel\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwFQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T08:21:29.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\ExoHotel\\ExoHotel\\DbManager\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ExoHotel\\DbManager\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\ExoHotel\\ExoHotel\\DbManager\\AppDbContext.cs",
+              "RelativeToolTip": "ExoHotel\\DbManager\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T08:46:30.504Z",
               "EditorCaption": ""
             },
             {
