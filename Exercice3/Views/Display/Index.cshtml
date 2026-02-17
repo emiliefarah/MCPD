@@ -1,0 +1,70 @@
+@{
+int age = (int)ViewData["Age"];
+List<string>
+	Hobbies =ViewData["Hobbies"] as List<string>
+		;
+		}
+
+		<!DOCTYPE html>
+		<html lang="en">
+			<head>
+				<meta charset="utf-8" />
+				<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+				<title>Index - Demo1_Controllers</title>
+				<link rel="stylesheet" href="~/css/Police.css"/>
+			</head>
+			<body>
+				<main>
+					<h2>Bienvenue à @ViewData["Prenom"] @ViewData["Age"] ans.</h2>
+
+					@if(age >=18)
+					{
+					<p>Vous êtes majeur!!</p>
+					}else
+					{
+					<p>Vous êtes mineur!</p>
+					}
+
+					@if(Hobbies.Count>0){
+					<ul>
+						@foreach (string Hobbie in Hobbies)
+						{
+						<li>@Hobbie</li>
+						}
+					</ul>
+
+					}else{
+					<p>Aucun hobbie renseigné </p>
+					}
+
+
+					<ul>
+						@for (int i = 1 ;i <= 10 ;i++)
+						{
+							<li>
+								@if(i % 2 == 0)
+								{
+									<strong>Nombre : @i</strong>
+								} else {
+									<span>
+										Nombre : @i
+										
+									</span>
+}
+
+							</li>
+						}
+					</ul>
+					{
+
+
+					}
+
+
+
+				</main>
+			</body>
+		</html>
+
+
+	

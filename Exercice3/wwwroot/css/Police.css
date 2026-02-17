@@ -1,0 +1,17 @@
+body {
+    background-color: grey;
+    font-family: Verdana, sans-serif;
+    margin: 20px;
+}
+li:Hobbie(1) {
+        color: red;
+        font-family: "Arial", sans-serif;
+    }
+    li:Hobbie(2) {
+        color: blue;
+        font-family: "Courier New", monospace;
+    }
+    li:Hobbie(3) {
+        color: green;
+        font-family: "Times New Roman", serif;
+    }

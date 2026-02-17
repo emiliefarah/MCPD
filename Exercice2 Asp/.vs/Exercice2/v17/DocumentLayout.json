@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\",
+  "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice2\\exercice2\\controllers\\chiencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice2 asp\\exercice2\\controllers\\chiencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\controllers\\chiencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice2\\exercice2\\properties\\launchsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\properties\\launchsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice2\\exercice2\\views\\chien\\afficherchien.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\views\\chien\\afficherchien.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice2\\exercice2\\models\\chien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\models\\chien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice2\\exercice2\\views\\chien\\affichertoutleschiens.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\views\\chien\\affichertoutleschiens.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice2\\exercice2\\views\\chien\\affichermessagedebienvenue.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\views\\chien\\affichermessagedebienvenue.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice2\\exercice2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice2 asp\\exercice2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice2\\exercice2\\views\\chien\\affichermessagedebienvenue.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice2 asp\\exercice2\\properties\\launchsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\properties\\launchsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice2 asp\\exercice2\\views\\chien\\afficherchien.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\views\\chien\\afficherchien.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice2 asp\\exercice2\\models\\chien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\models\\chien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice2 asp\\exercice2\\views\\chien\\affichertoutleschiens.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\views\\chien\\affichertoutleschiens.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice2 asp\\exercice2\\views\\chien\\affichermessagedebienvenue.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\views\\chien\\affichermessagedebienvenue.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice2 asp\\exercice2\\views\\chien\\affichermessagedebienvenue.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\views\\chien\\affichermessagedebienvenue.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice2\\exercice2\\views\\home\\index.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice2 asp\\exercice2\\views\\home\\index.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\views\\home\\index.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice2\\exercice2\\views\\chien\\affichertoutleschiens.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice2 asp\\exercice2\\views\\chien\\affichertoutleschiens.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\views\\chien\\affichertoutleschiens.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice2\\exercice2\\views\\home\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice2 asp\\exercice2\\views\\home\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\views\\home\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice2\\exercice2\\views\\chien\\afficherchien.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice2 asp\\exercice2\\views\\chien\\afficherchien.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\views\\chien\\afficherchien.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcdp\\08_asp_mvc\\exercices\\exercice2\\exercice2\\views\\_viewimports.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice2 asp\\exercice2\\views\\_viewimports.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A575E822-5E74-4CE0-94D2-B12E082D83EA}|Exercice2\\Exercice2.csproj|solutionrelative:exercice2\\views\\_viewimports.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -62,176 +62,165 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Exercice2\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Exercice2\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-16T13:20:03.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AfficherToutLesChiens.cshtml",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Views\\Chien\\AfficherToutLesChiens.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Views\\Chien\\AfficherToutLesChiens.cshtml",
               "RelativeDocumentMoniker": "Exercice2\\Views\\Chien\\AfficherToutLesChiens.cshtml",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Views\\Chien\\AfficherToutLesChiens.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Views\\Chien\\AfficherToutLesChiens.cshtml",
               "RelativeToolTip": "Exercice2\\Views\\Chien\\AfficherToutLesChiens.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-16T13:00:19.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T13:00:19.224Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AfficherMessageDeBienvenue.cshtml",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Views\\Chien\\AfficherMessageDeBienvenue.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Views\\Chien\\AfficherMessageDeBienvenue.cshtml",
               "RelativeDocumentMoniker": "Exercice2\\Views\\Chien\\AfficherMessageDeBienvenue.cshtml",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Views\\Chien\\AfficherMessageDeBienvenue.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Views\\Chien\\AfficherMessageDeBienvenue.cshtml",
               "RelativeToolTip": "Exercice2\\Views\\Chien\\AfficherMessageDeBienvenue.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-16T12:56:43.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T12:56:43.717Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "AfficherMessageDeBienvenue.cshtml",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Views\\Chien\\AfficherMessageDeBienvenue.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Views\\Chien\\AfficherMessageDeBienvenue.cshtml",
               "RelativeDocumentMoniker": "Exercice2\\Views\\Chien\\AfficherMessageDeBienvenue.cshtml",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Views\\Chien\\AfficherMessageDeBienvenue.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Views\\Chien\\AfficherMessageDeBienvenue.cshtml",
               "RelativeToolTip": "Exercice2\\Views\\Chien\\AfficherMessageDeBienvenue.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-16T12:55:46.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T12:55:46.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "AfficherChien.cshtml",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Views\\Chien\\AfficherChien.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Views\\Chien\\AfficherChien.cshtml",
               "RelativeDocumentMoniker": "Exercice2\\Views\\Chien\\AfficherChien.cshtml",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Views\\Chien\\AfficherChien.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Views\\Chien\\AfficherChien.cshtml",
               "RelativeToolTip": "Exercice2\\Views\\Chien\\AfficherChien.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-16T12:31:38.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T12:31:38.893Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ChienController.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Controllers\\ChienController.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Controllers\\ChienController.cs",
               "RelativeDocumentMoniker": "Exercice2\\Controllers\\ChienController.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Controllers\\ChienController.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Controllers\\ChienController.cs",
               "RelativeToolTip": "Exercice2\\Controllers\\ChienController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T11:19:37.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Exercice2\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Exercice2\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T10:37:11.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Exercice2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Exercice2\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-16T13:20:03.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Chien.cs",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Models\\Chien.cs",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Models\\Chien.cs",
               "RelativeDocumentMoniker": "Exercice2\\Models\\Chien.cs",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Models\\Chien.cs",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Models\\Chien.cs",
               "RelativeToolTip": "Exercice2\\Models\\Chien.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwBAAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T11:13:43.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T11:13:43.091Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Exercice2\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Exercice2\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-16T12:30:48.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T12:30:48.5Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "AfficherToutLesChiens.cshtml",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Views\\Chien\\AfficherToutLesChiens.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Views\\Chien\\AfficherToutLesChiens.cshtml",
               "RelativeDocumentMoniker": "Exercice2\\Views\\Chien\\AfficherToutLesChiens.cshtml",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Views\\Chien\\AfficherToutLesChiens.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Views\\Chien\\AfficherToutLesChiens.cshtml",
               "RelativeToolTip": "Exercice2\\Views\\Chien\\AfficherToutLesChiens.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-16T12:48:12.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T12:48:12.121Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Exercice2\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Exercice2\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-16T11:35:02.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T11:35:02.971Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Exercice2\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Exercice2\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-16T12:31:33.215Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T12:31:33.215Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "AfficherChien.cshtml",
-              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Views\\Chien\\AfficherChien.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Views\\Chien\\AfficherChien.cshtml",
               "RelativeDocumentMoniker": "Exercice2\\Views\\Chien\\AfficherChien.cshtml",
-              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCDP\\08_ASP_MVC\\Exercices\\Exercice2\\Exercice2\\Views\\Chien\\AfficherChien.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice2 Asp\\Exercice2\\Views\\Chien\\AfficherChien.cshtml",
               "RelativeToolTip": "Exercice2\\Views\\Chien\\AfficherChien.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-16T11:34:54.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-16T11:34:54.463Z"
             }
           ]
         }
