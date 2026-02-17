@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice3\\controllers\\displaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3.csproj|solutionrelative:exercice3\\controllers\\displaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3\\Exercice3.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice3\\wwwroot\\css\\police.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\wwwroot\\css\\police.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice3\\properties\\launchsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3.csproj|solutionrelative:exercice3\\properties\\launchsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3\\Exercice3.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice3\\views\\display\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\views\\display\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3.csproj|solutionrelative:exercice3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3\\Exercice3.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice3\\views\\display\\index.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\views\\display\\index.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice3\\views\\_viewstart.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3.csproj|solutionrelative:exercice3\\views\\_viewstart.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3\\Exercice3.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice3\\wwwroot\\css\\site.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\wwwroot\\css\\site.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice3\\views\\display\\index.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3.csproj|solutionrelative:exercice3\\views\\display\\index.cshtml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3\\Exercice3.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice3\\controllers\\displaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\controllers\\displaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice3\\views\\display\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3.csproj|solutionrelative:exercice3\\views\\display\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3\\Exercice3.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice3\\views\\home\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\views\\home\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3\\Exercice3.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3\\Exercice3.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice3\\views\\_viewimports.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\views\\_viewimports.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3\\Exercice3.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice3\\properties\\launchsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\properties\\launchsettings.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3\\Exercice3.csproj|c:\\users\\userprf\\desktop\\mcpdemilie\\exercice3\\views\\_viewstart.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8D528E24-D60E-02EC-D9D4-004233768FED}|Exercice3\\Exercice3.csproj|solutionrelative:exercice3\\views\\_viewstart.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +50,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Police.css",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice3\\wwwroot\\css\\Police.css",
+              "RelativeDocumentMoniker": "Exercice3\\wwwroot\\css\\Police.css",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice3\\wwwroot\\css\\Police.css",
+              "RelativeToolTip": "Exercice3\\wwwroot\\css\\Police.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-17T08:51:41.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice3\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Exercice3\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice3\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Exercice3\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-17T08:50:57.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice3\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Exercice3\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice3\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Exercice3\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-17T07:59:45.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exercice3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Exercice3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-17T07:40:03.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice3\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Exercice3\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice3\\Properties\\launchSettings.json",
               "RelativeToolTip": "Exercice3\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-02-16T16:26:47.284Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice3\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Exercice3\\Controllers\\HomeController.cs",
@@ -64,20 +132,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice3\\Views\\Display\\Index.cshtml",
               "RelativeDocumentMoniker": "Exercice3\\Views\\Display\\Index.cshtml",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice3\\Views\\Display\\Index.cshtml",
               "RelativeToolTip": "Exercice3\\Views\\Display\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-02-16T16:17:44.551Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice3\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Exercice3\\Views\\_ViewStart.cshtml",
@@ -90,26 +158,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice3\\Views\\Display\\Index.cshtml",
               "RelativeDocumentMoniker": "Exercice3\\Views\\Display\\Index.cshtml",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice3\\Views\\Display\\Index.cshtml",
               "RelativeToolTip": "Exercice3\\Views\\Display\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-02-16T16:17:12.83Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "DisplayController.cs",
               "DocumentMoniker": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice3\\Controllers\\DisplayController.cs",
               "RelativeDocumentMoniker": "Exercice3\\Controllers\\DisplayController.cs",
               "ToolTip": "C:\\Users\\userprf\\Desktop\\MCPDEMILIE\\Exercice3\\Controllers\\DisplayController.cs",
               "RelativeToolTip": "Exercice3\\Controllers\\DisplayController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-16T15:54:08.838Z",
               "EditorCaption": ""
