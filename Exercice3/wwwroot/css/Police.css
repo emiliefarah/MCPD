@@ -1,17 +1,18 @@
-body {
+body{
     background-color: grey;
     font-family: Verdana, sans-serif;
     margin: 20px;
 }
-li:nth-Child(1) {
+#Hobby
+ol li:nth-Child(1) {
         color: red;
         font-family: "Arial", sans-serif;
     }
-    li:nth-Child(2) {
+  ol li:nth-Child(2) {
         color: blue;
         font-family: "Courier New", monospace;
     }
-    li:nth-Child(3) {
+   ol li:nth-Child(3) {
         color: green;
         font-family: "Times New Roman", serif;
     }
